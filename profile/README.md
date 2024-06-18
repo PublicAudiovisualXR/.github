@@ -1,13 +1,7 @@
 ﻿<p align="center">
- <img src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Gif/PuGlicth.gif"/><br><br>
+ <img src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Logo/PublicCAI%20White.png"/><br><br>
  <img src="https://komarev.com/ghpvc/?username=jordimartos&style=for-the-badge&color=blueviolet" alt=""/>
 </P>
-
----
-
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
 ---
 
