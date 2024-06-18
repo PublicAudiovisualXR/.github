@@ -13,38 +13,6 @@
 
 ---
 
-<p align="center">
- <br>
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
- <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
- <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
- <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
- <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
- <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/>
- <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-<br>
- <img src="https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black"/>
-<br>
- <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
- <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
- <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff"/>
-<br>
- <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
- <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-<br>
- <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>
- <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
- <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
- <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<br> 
- <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"/>
- <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
- <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"/>
-</p>
-
----
-
 <details>
 <summary>
  
@@ -79,6 +47,8 @@ Developer solutions IT (Information Technology). <br>
 | <img src="https://th.bing.com/th/id/R.dc05a92911d40ebc1bb4722da24b3353?rik=1pK3zGFL1M3UOg&pid=ImgRaw&r=0" title="ARCore"  alt="ARCore" width="55" height="55"/> | <img src="https://th.bing.com/th/id/OIP.Pgro9L-_XcM4kjIlCInp3gHaHa?rs=1&pid=ImgDetMain" title="ARKit"  alt="ARKit" width="55" height="55"/> | <img src="https://th.bing.com/th/id/OIP.tyYn1Hp8N1OWKW8JGzmTaAHaHa?rs=1&pid=ImgDetMain" title="Spark AR"  alt="Spark AR" width="55" height="55"/> | <img src="https://styles.redditmedia.com/t5_5phdlq/styles/communityIcon_3yntv1jnxtc81.png?width=256&s=be1aa9ea972d85c8e89c411ec17a2d7b24822dbd" title="Effect House"  alt="Effect House" width="55" height="55"/> | <img src="https://th.bing.com/th/id/OIP.8-wd9ZnJZxczKhbDE0lDbQHaFQ?rs=1&pid=ImgDetMain" title="Cardboard"  alt="Cardboard" width="55" height="55"/> | <img src="https://logos-world.net/wp-content/uploads/2021/02/Oculus-Emblem.jpg" title="Oculus"  alt="Oculus" width="55" height="55"/> | <img src="https://th.bing.com/th/id/OIP.MHYNRTWTL7mB1CpokSkrOwAAAA?rs=1&pid=ImgDetMain" title="HTC Vive"  alt="HTC Vive" width="55" height="55"/> | <img src="https://th.bing.com/th/id/OIP.yWkoa3AVabSgou_NEvmlwgAAAA?w=256&h=256&rs=1&pid=ImgDetMain" title="Pico"  alt="Pico" width="55" height="55"/> | <img src="https://i.scdn.co/image/3bc05fa6e5322bcf210ff9aa546c3f11fcdb5649" title="Varjo"  alt="Varjo" width="55" height="55"/> | <img src="https://www.linuxadictos.com/wp-content/uploads/openxr-logo-2-500x281.jpg" title="OpenXR"  alt="OpenXR" width="55" height="55"/> | <img src="https://th.bing.com/th/id/R.6b2be0fe224bba0729f2c7a937ebe21a?rik=1uNNZBvWm9Tcmg&pid=ImgRaw&r=0" title="Hololens"  alt="Hololens" width="55" height="55"/> | <img src="https://tm.ibxk.com.br/2020/07/07/07130411460331.jpg" title="Magic Leap"  alt="Magic Leap" width="55" height="55"/> |
 
 ### Repos:
+
+---
 
 Storytelling:<br><br>
 [Código de Conducta en PublicAudiovisual XR] (https://github.com/PublicAudiovisualXR/CodigoDeConducta)<br>
@@ -149,9 +119,37 @@ Blockchain:<br>
 
 </details>
 
-
- 
 ---
+
+<p align="center">
+ <br>
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+ <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+ <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+ <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+ <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<br>
+ <img src="https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black"/>
+<br>
+ <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+ <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff"/>
+<br>
+ <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<br>
+ <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<br> 
+ <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"/>
+ <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"/>
+</p>
 
 ---
 
