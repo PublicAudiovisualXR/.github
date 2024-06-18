@@ -63,17 +63,20 @@ Developer solutions IT (Information Technology). <br>
 <details>
 <summary>
  
- ## Github Stats⚡
- 
- </summary>
+### Projects and XR Typologies: 👁️‍🗨️
 
-<p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=publicaudiovisualxr&theme=synthwave"/><br>
- <img width="800" height="220" src="https://streak-stats.demolab.com?user=publicaudiovisualxr&theme=synthwave&hide_border=true&border_radius=5&card_width=800"><br>  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=jordimartos&show_icons=true&theme=synthwave">
- <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=publicaudiovisualxr&size_weight=0.0005&count_weight=0.3&layout=compact&theme=synthwave"><br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=publicaudiovisualxr&theme=xcode"/><br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=publicaudiovisualxr&theme=dracula"/> 
-</P>
+</summary>
+ 
+- PublicAudiovisual XR (Advice, Development and training).
+- QXR20.academy (Storytelling, Audiovisual, XR, IoT).
+- Education and Training (Educational Laboratories and Simulations, Professional and Technical Training, Classrooms and Virtual Learning Environments).
+- Health and Medicine (Diagnosis and Evaluation, Therapy and Rehabilitation, Medical Training).
+- Architecture and Engineering (Design and Prototyping, Simulation and Planning, Visualization and Presentation).
+- Art and Culture (Virtual Exhibitions and Museums, Interactive Artistic Experiences, Restoration and Conservation).
+
+| ARCore | ARKit | Spark AR | Effect House | Cardboard | Oculus | HTC Vive | Pico | Varjo | OpenXR | Hololens | Magic Leap |
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+| <img src="https://th.bing.com/th/id/R.dc05a92911d40ebc1bb4722da24b3353?rik=1pK3zGFL1M3UOg&pid=ImgRaw&r=0" title="ARCore"  alt="ARCore" width="55" height="55"/> | <img src="https://th.bing.com/th/id/OIP.Pgro9L-_XcM4kjIlCInp3gHaHa?rs=1&pid=ImgDetMain" title="ARKit"  alt="ARKit" width="55" height="55"/> | <img src="https://th.bing.com/th/id/OIP.tyYn1Hp8N1OWKW8JGzmTaAHaHa?rs=1&pid=ImgDetMain" title="Spark AR"  alt="Spark AR" width="55" height="55"/> | <img src="https://styles.redditmedia.com/t5_5phdlq/styles/communityIcon_3yntv1jnxtc81.png?width=256&s=be1aa9ea972d85c8e89c411ec17a2d7b24822dbd" title="Effect House"  alt="Effect House" width="55" height="55"/> | <img src="https://th.bing.com/th/id/OIP.8-wd9ZnJZxczKhbDE0lDbQHaFQ?rs=1&pid=ImgDetMain" title="Cardboard"  alt="Cardboard" width="55" height="55"/> | <img src="https://logos-world.net/wp-content/uploads/2021/02/Oculus-Emblem.jpg" title="Oculus"  alt="Oculus" width="55" height="55"/> | <img src="https://th.bing.com/th/id/OIP.MHYNRTWTL7mB1CpokSkrOwAAAA?rs=1&pid=ImgDetMain" title="HTC Vive"  alt="HTC Vive" width="55" height="55"/> | <img src="https://th.bing.com/th/id/OIP.yWkoa3AVabSgou_NEvmlwgAAAA?w=256&h=256&rs=1&pid=ImgDetMain" title="Pico"  alt="Pico" width="55" height="55"/> | <img src="https://i.scdn.co/image/3bc05fa6e5322bcf210ff9aa546c3f11fcdb5649" title="Varjo"  alt="Varjo" width="55" height="55"/> | <img src="https://www.linuxadictos.com/wp-content/uploads/openxr-logo-2-500x281.jpg" title="OpenXR"  alt="OpenXR" width="55" height="55"/> | <img src="https://th.bing.com/th/id/R.6b2be0fe224bba0729f2c7a937ebe21a?rik=1uNNZBvWm9Tcmg&pid=ImgRaw&r=0" title="Hololens"  alt="Hololens" width="55" height="55"/> | <img src="https://tm.ibxk.com.br/2020/07/07/07130411460331.jpg" title="Magic Leap"  alt="Magic Leap" width="55" height="55"/> |
 
 </details>
 
@@ -118,27 +121,7 @@ Developer solutions IT (Information Technology). <br>
 
 </details>
 
----
 
-<details>
-<summary>
- 
-### Projects and XR Typologies: 👁️‍🗨️
-
-</summary>
- 
-- PublicAudiovisual XR (Advice, Development and training).
-- QXR20.academy (Storytelling, Audiovisual, XR, IoT).
-- Education and Training (Educational Laboratories and Simulations, Professional and Technical Training, Classrooms and Virtual Learning Environments).
-- Health and Medicine (Diagnosis and Evaluation, Therapy and Rehabilitation, Medical Training).
-- Architecture and Engineering (Design and Prototyping, Simulation and Planning, Visualization and Presentation).
-- Art and Culture (Virtual Exhibitions and Museums, Interactive Artistic Experiences, Restoration and Conservation).
-
-| ARCore | ARKit | Spark AR | Effect House | Cardboard | Oculus | HTC Vive | Pico | Varjo | OpenXR | Hololens | Magic Leap |
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| <img src="https://th.bing.com/th/id/R.dc05a92911d40ebc1bb4722da24b3353?rik=1pK3zGFL1M3UOg&pid=ImgRaw&r=0" title="ARCore"  alt="ARCore" width="55" height="55"/> | <img src="https://th.bing.com/th/id/OIP.Pgro9L-_XcM4kjIlCInp3gHaHa?rs=1&pid=ImgDetMain" title="ARKit"  alt="ARKit" width="55" height="55"/> | <img src="https://th.bing.com/th/id/OIP.tyYn1Hp8N1OWKW8JGzmTaAHaHa?rs=1&pid=ImgDetMain" title="Spark AR"  alt="Spark AR" width="55" height="55"/> | <img src="https://styles.redditmedia.com/t5_5phdlq/styles/communityIcon_3yntv1jnxtc81.png?width=256&s=be1aa9ea972d85c8e89c411ec17a2d7b24822dbd" title="Effect House"  alt="Effect House" width="55" height="55"/> | <img src="https://th.bing.com/th/id/OIP.8-wd9ZnJZxczKhbDE0lDbQHaFQ?rs=1&pid=ImgDetMain" title="Cardboard"  alt="Cardboard" width="55" height="55"/> | <img src="https://logos-world.net/wp-content/uploads/2021/02/Oculus-Emblem.jpg" title="Oculus"  alt="Oculus" width="55" height="55"/> | <img src="https://th.bing.com/th/id/OIP.MHYNRTWTL7mB1CpokSkrOwAAAA?rs=1&pid=ImgDetMain" title="HTC Vive"  alt="HTC Vive" width="55" height="55"/> | <img src="https://th.bing.com/th/id/OIP.yWkoa3AVabSgou_NEvmlwgAAAA?w=256&h=256&rs=1&pid=ImgDetMain" title="Pico"  alt="Pico" width="55" height="55"/> | <img src="https://i.scdn.co/image/3bc05fa6e5322bcf210ff9aa546c3f11fcdb5649" title="Varjo"  alt="Varjo" width="55" height="55"/> | <img src="https://www.linuxadictos.com/wp-content/uploads/openxr-logo-2-500x281.jpg" title="OpenXR"  alt="OpenXR" width="55" height="55"/> | <img src="https://th.bing.com/th/id/R.6b2be0fe224bba0729f2c7a937ebe21a?rik=1uNNZBvWm9Tcmg&pid=ImgRaw&r=0" title="Hololens"  alt="Hololens" width="55" height="55"/> | <img src="https://tm.ibxk.com.br/2020/07/07/07130411460331.jpg" title="Magic Leap"  alt="Magic Leap" width="55" height="55"/> |
-
-</details>
  
 ---
 
