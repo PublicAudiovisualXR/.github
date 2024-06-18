@@ -45,58 +45,16 @@
 
 ---
 
-
-
----
-
 <details>
 <summary>
  
-### About Me: 🫴
+### About PublicAudiovisual XR: 🫴
  
 </summary>
 
-I am a passionate researcher in the world of Extended Reality with experience in development, focusing on user experience and the development of digital twins. 
-My interests extend to training and development of digital solutions. 
-
-<img src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Gif/DocsU_GarageStories_CCCB.gif" title="PublicAudiovisual XR"  alt="PublicAudiovisual XR"/> 
-
-### Mentoring and talks: 🧠
-
-- 4th International Conference on Virtual Reality
-- HealthTech 2030
-- The future of HealthTech2030
-- DOC-U Experiencias inmersivas
-- Festival LH-XR 2020
-- GS X DOCSBCN
-- LEA (Laboratorio de Educación Aumentada)
-- CEFIRE #RealitatVirtual i #RealitatAugmentada a l'aula
-- 2ª edició de fira FRICS 2017
-- Exposición "Press Start" del Espai Cultura
-- Hack And Art Day #8
-- Immersió & LeagueOfLegends al JovesSagnier
-- Linkafesta 2016 al Jardins de la Pau
-- Consumo y creación de contenidos inmersivos (INS Premià de Mar)
-- Fotografia esfèrica immersiva al SabaTIC
-- Taller RealitatVirtual i Educació al Pla de l'Estany
-- RealitatVirtual i Educació a la Jornada mSchools Mobile World Capital
-- Frics
-- Tecnologia i societat, RealidadVirtual en MakerConvent VR
-- Workshop immersiu de Terror amb OculusRift i GoogleCardboard
-- Mini Maker Faire Barcelona
-- Taller sobre Realidad Virtual y Educación en Espiral, UOC
-- III edició Recorreguts Sonors. Accions i Mutacions Sonores
-- Realitat Virtual inmersiva i Astronomia
-- European Balloon Festival
-- MAD Barcelona - II Simultaneous Digital Art Show
-- Itnig
-- Aumentame
-- XIII Jornades Tecnòlogiques de STUCOM
-- La Caja Fuerte - Laboratorio Artístico
-- TicDate
-- 1er Barcelona Virtual Reality Meetup
-- Primer taller VR en "Orgatecnos"
-- Primera app VR educativa en catalan en "HackatH2On".
+Coding extended reality XR applications... 
+Developer solutions IT (Information Technology). 
+"Mentor | IoT | ML | AI | UX | XR | AR | VR | MR | WebXR"
 
 </details>
 
