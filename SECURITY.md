@@ -13,7 +13,7 @@ Utilizamos la siguiente política para determinar qué versiones de nuestro proy
 
 ## Informar de una vulnerabilidad
 
-Agradecemos tu ayuda para mantener nuestro proyecto seguro. Si encuentras una vulnerabilidad en el proyecto, te pedimos que la informes a través de nuestro sistema de seguimiento de problemas (proporciona el enlace aquí). 
+Agradecemos tu ayuda para mantener nuestro proyecto seguro. Si encuentras una vulnerabilidad en el proyecto, te pedimos que la informes a través de nuestro sistema de seguimiento de problemas (https://github.com/PublicAudiovisualXR/.github/pulls). 
 
 Por favor, proporciona tantos detalles como sea posible para ayudarnos a entender la naturaleza y el alcance de la vulnerabilidad. Nos esforzamos por responder a los informes de vulnerabilidad lo más rápido posible y, si el informe se confirma, trabajaremos para emitir una corrección de seguridad lo más rápido posible.
 
