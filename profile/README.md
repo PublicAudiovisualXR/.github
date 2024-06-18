@@ -89,19 +89,16 @@ Storytelling:<br><br>
 [CO2.js] (https://github.com/PublicAudiovisualXR/co2.js)<br>
 [SitioWeb (Private)] (https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR)<br>
 
+---
 
-
-
-AR:<br>
-Visita mi página web 
-
-VR:<br>
+VR:<br><br>
 [Basic-initial] (https://github.com/PublicAudiovisualXR/Unity_Basic-initial)<br>
 [Post-processing Stack v1] (https://github.com/PublicAudiovisualXR/PostProcessing)<br>
 [GenericRecorder-MovieRecorderPlugin] (https://github.com/PublicAudiovisualXR/GenericRecorder-MovieRecorderPlugin)<br>
 [GenericRecorder-FrameCapturerPlugin] (https://github.com/PublicAudiovisualXR/GenericRecorder-FrameCapturerPlugin)<br>
 [SkyboxPanoramicShader] (https://github.com/PublicAudiovisualXR/SkyboxPanoramicShader)<br>
 
+---
 
 Blockchain:<br>
 [blockchain-init] (https://github.com/PublicAudiovisualXR/blockchain-init)<br>
