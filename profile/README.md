@@ -1,6 +1,6 @@
 ﻿<p align="center">
- <img src="https://komarev.com/ghpvc/?username=publicaudiovisualxr&style=for-the-badge&color=blueviolet" alt=""/>
- <img src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Logo/PublicCAI%20White.png"/><br><br>
+ <img src="https://komarev.com/ghpvc/?username=publicaudiovisualxr&style=for-the-badge&color=blueviolet" alt=""/><br><br>
+ <img src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Logo/PublicCAI%20White.png"/>
 </P>
 
 ---
