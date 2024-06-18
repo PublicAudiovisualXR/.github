@@ -81,16 +81,33 @@ Developer solutions IT (Information Technology). <br>
 ### Repos:
 
 Storytelling:<br><br>
-[TheGreenWebFoundation] (https://github.com/PublicAudiovisualXR/grid-intensity-go)<br>
-[SitioWeb (Private)] (https://acortar.link/YrzMYw)<br>
+[Código de Conducta en PublicAudiovisual XR] (https://github.com/PublicAudiovisualXR/CodigoDeConducta)<br>
+[TheGreenWebFoundation Carbon] (https://github.com/PublicAudiovisualXR/carbon.txt)<br>
+[TheGreenWebFoundation Assets] (https://github.com/PublicAudiovisualXR/GWF-brand-assets)<br>
+[TheGreenWebFoundation IntensidadDatos] (https://github.com/PublicAudiovisualXR/grid-intensity-go)<br>
+[Scaphandre] (https://github.com/PublicAudiovisualXR/scaphandre)<br>
+[CO2.js] (https://github.com/PublicAudiovisualXR/co2.js)<br>
+[SitioWeb (Private)] (https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR)<br>
 
 
 
 
-AR:
+AR:<br>
 Visita mi página web 
 
-VR:
+VR:<br>
+[Basic-initial] (https://github.com/PublicAudiovisualXR/Unity_Basic-initial)<br>
+[Post-processing Stack v1] (https://github.com/PublicAudiovisualXR/PostProcessing)<br>
+[GenericRecorder-MovieRecorderPlugin] (https://github.com/PublicAudiovisualXR/GenericRecorder-MovieRecorderPlugin)<br>
+[GenericRecorder-FrameCapturerPlugin] (https://github.com/PublicAudiovisualXR/GenericRecorder-FrameCapturerPlugin)<br>
+[SkyboxPanoramicShader] (https://github.com/PublicAudiovisualXR/SkyboxPanoramicShader)<br>
+
+
+Blockchain:<br>
+[blockchain-init] (https://github.com/PublicAudiovisualXR/blockchain-init)<br>
+[Cryptomoneda-init] (https://github.com/PublicAudiovisualXR/Cryptomoneda-init)<br>
+[ERC1155] (https://github.com/PublicAudiovisualXR/ERC1155)<br>
+[ERC1155.vendor] (https://github.com/PublicAudiovisualXR/ERC1155.vendor)<br>
 
 </details>
 
