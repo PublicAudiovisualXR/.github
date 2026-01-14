@@ -1,3 +1,5 @@
+# 🚧 Reorganizando ecosistema Q1 2026
+
 # PublicAudiovisual XR · AlquimisTech's
 
 PublicAudiovisual XR es un laboratorio **AlquimisTech's** Tecnológico donde convergen Storytelling, Audiovisual, XR e IoT para diseñar experiencias éticas, trazables y conectadas al territorio.
